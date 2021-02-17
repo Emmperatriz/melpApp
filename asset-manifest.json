@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/melpApp/static/css/main.310de802.chunk.css",
-    "main.js": "/melpApp/static/js/main.0ab5f5f9.chunk.js",
-    "main.js.map": "/melpApp/static/js/main.0ab5f5f9.chunk.js.map",
+    "main.js": "/melpApp/static/js/main.20b402eb.chunk.js",
+    "main.js.map": "/melpApp/static/js/main.20b402eb.chunk.js.map",
     "runtime-main.js": "/melpApp/static/js/runtime-main.00cd558b.js",
     "runtime-main.js.map": "/melpApp/static/js/runtime-main.00cd558b.js.map",
     "static/css/2.150d169a.chunk.css": "/melpApp/static/css/2.150d169a.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.3b63718d.chunk.js",
     "static/css/main.310de802.chunk.css",
-    "static/js/main.0ab5f5f9.chunk.js"
+    "static/js/main.20b402eb.chunk.js"
   ]
 }
