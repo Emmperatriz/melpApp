@@ -1,13 +1,61 @@
 body {
+  
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+ 
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.image{
+ 
+width: 100%;
+height: 500px;
+}
+.bienvenida{
+  
+  padding-top: 40px;
+  
+  padding-bottom: 50px;
+  padding-left: 30%;
+}
+.paizq{ 
+  padding-left: 20px;
+}
+.p1 {
+  
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 50px;
+}
+.p2{
+  
+  font-size: 50px;
+  color: green;
+}
+.p3{
+  padding-left: 30px;
+}
+.pid{
+  color: lightgrey;
+}
+li {
+  display: inline;
+}
+.map{
+  height: 500px;
+  width: 100%;
+  
+}
+.radioButtom{
+  color: #9FE2BF;
+  padding-left: 5%;
+  font-size: 20px;
 }
